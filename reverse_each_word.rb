@@ -1,4 +1,5 @@
 def reverse_each_word(sentence1)
-  reverse_each_word.reverse.each { |val| puts val}
-  
+  split_string = string.split("")
+  reversed = []
+  string.size.times
 end
